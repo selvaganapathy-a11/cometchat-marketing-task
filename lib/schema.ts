@@ -6,7 +6,7 @@ export const breadcrumbSchema = {
       "@type": "ListItem",
       position: 1,
       name: "Home",
-      item: "https://your-vercel-domain.vercel.app",
+      item: "https://cometchat-marketing-task.vercel.app",
     },
   ],
 };
